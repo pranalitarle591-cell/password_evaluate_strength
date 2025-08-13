@@ -1,0 +1,31 @@
+
+# Password Strength Evaluation Report
+
+## Password Used
+
+`Str0ng!P@ssw0rd#2025`
+
+## Evaluation Summary
+
+The password includes:
+
+- Uppercase letters: S, P
+- Lowercase letters: t, r, n, g, s, s, w, r, d
+- Numbers: 0, 0, 2, 5
+- Special characters: !, @, #
+
+## Strength Analysis
+
+- Length: 18 characters (good length)
+- Complexity: Mix of uppercase, lowercase, numbers, and special chars
+- Unpredictability: Includes substitutions and special chars, making it strong
+
+## Online Tool Results
+
+Using [passwordmeter.com](https://passwordmeter.com), this password scored very high in strength due to its length and complexity.
+
+---
+
+## Conclusion
+
+This password meets best practices for strength and complexity, making it resistant to brute-force and dictionary attacks.
